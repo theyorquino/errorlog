@@ -1,0 +1,1252 @@
+17:53:17.351: CPU Name: Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz
+17:53:17.352: CPU Speed: 1995MHz
+17:53:17.352: Physical Cores: 4, Logical Cores: 8
+17:53:17.352: Physical Memory: 16177MB Total, 12417MB Free
+17:53:17.352: Windows Version: 10.0 Build 19042 (release: 2009; revision: 844; 64-bit)
+17:53:17.352: Running as administrator: false
+17:53:17.352: Aero is Enabled (Aero is always on for windows 8 and above)
+17:53:17.352: Windows 10 Gaming Features:
+17:53:17.352: 	Game DVR: On
+17:53:17.359: Sec. Software Status:
+17:53:17.363: 	Malwarebytes: enabled (AV)
+17:53:17.363: 	Microsoft Defender Antivirus: disabled (AV)
+17:53:17.364: 	Windows Firewall: enabled (FW)
+17:53:17.365: Current Date/Time: 2021-03-04, 17:53:17
+17:53:17.365: Browser Hardware Acceleration: true
+17:53:17.365: Portable mode: false
+17:53:20.353: OBS 26.1.1 (64-bit, windows)
+17:53:20.353: ---------------------------------
+17:53:20.412: ---------------------------------
+17:53:20.412: audio settings reset:
+17:53:20.412: 	samples per sec: 48000
+17:53:20.412: 	speakers:        2
+17:53:20.420: ---------------------------------
+17:53:20.420: Initializing D3D11...
+17:53:20.420: Available Video Adapters: 
+17:53:20.441: 	Adapter 0: Intel(R) HD Graphics 4600
+17:53:20.441: 	  Dedicated VRAM: 117964800
+17:53:20.441: 	  Shared VRAM:    2147483648
+17:53:20.441: 	  PCI ID:         8086:412
+17:53:20.444: 	  Driver Version: 20.19.15.5126
+17:53:20.444: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=60, name=SB230
+17:53:20.453: Loading up D3D11 on adapter Intel(R) HD Graphics 4600 (0)
+17:53:20.495: D3D11 loaded successfully, feature level used: b000
+17:53:20.495: DXGI increase maximum frame latency success
+17:53:21.828: ---------------------------------
+17:53:21.828: video settings reset:
+17:53:21.828: 	base resolution:   1920x1080
+17:53:21.828: 	output resolution: 1280x720
+17:53:21.828: 	downscale filter:  Bicubic
+17:53:21.828: 	fps:               60/1
+17:53:21.828: 	format:            NV12
+17:53:21.828: 	YUV mode:          709/Partial
+17:53:21.829: NV12 texture support not available
+17:53:21.830: Audio monitoring device:
+17:53:21.830: 	name: Default
+17:53:21.830: 	id: default
+17:53:21.857: ---------------------------------
+17:53:21.880: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+17:53:21.884: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+17:53:21.891: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+17:53:22.047: [AMF] Unable to load 'amfrt64.dll', error code 126.
+17:53:22.051: [AMF] AMF Test failed due to one or more errors.
+17:53:22.051: Failed to initialize module 'enc-amf.dll'
+17:53:22.243: [obs-browser]: Version 2.9.1
+17:53:22.243: [obs-browser]: CEF Version 75.1.16+g16a67c4+chromium-75.0.3770.100
+17:53:22.562: [obs-websocket] you can haz websockets (version 4.9.0)
+17:53:22.562: [obs-websocket] qt version (compile-time): 5.10.1 ; qt version (run-time): 5.15.2
+17:53:22.566: [obs-websocket] module loaded!
+17:53:22.612: VLC found, VLC video source enabled
+17:53:22.636: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:53:22.638: No blackmagic support
+17:53:22.666: ---------------------------------
+17:53:22.666:   Loaded Modules:
+17:53:22.666:     win-wasapi.dll
+17:53:22.666:     win-mf.dll
+17:53:22.666:     win-dshow.dll
+17:53:22.666:     win-decklink.dll
+17:53:22.666:     win-capture.dll
+17:53:22.666:     vlc-video.dll
+17:53:22.666:     text-freetype2.dll
+17:53:22.666:     rtmp-services.dll
+17:53:22.666:     obs-x264.dll
+17:53:22.666:     obs-websocket.dll
+17:53:22.666:     obs-vst.dll
+17:53:22.666:     obs-transitions.dll
+17:53:22.666:     obs-text.dll
+17:53:22.666:     obs-qsv11.dll
+17:53:22.666:     obs-outputs.dll
+17:53:22.666:     obs-filters.dll
+17:53:22.666:     obs-ffmpeg.dll
+17:53:22.666:     obs-browser.dll
+17:53:22.666:     image-source.dll
+17:53:22.666:     frontend-tools.dll
+17:53:22.666:     enc-amf.dll
+17:53:22.666:     decklink-ouput-ui.dll
+17:53:22.666:     decklink-captions.dll
+17:53:22.666:     coreaudio-encoder.dll
+17:53:22.666: ---------------------------------
+17:53:22.667: ==== Startup complete ===============================================
+17:53:22.692: All scene data cleared
+17:53:22.692: ------------------------------------------------
+17:53:22.840: WASAPI: Device 'Speakers (Realtek High Definition Audio)' [48000 Hz] initialized
+17:53:22.840: [Loaded global audio device]: 'Desktop Audio'
+17:53:22.842: [WASAPISource::TryInitialize]:[Microphone (InnoGear UC016)] Failed to activate client context: 88890004
+17:53:22.843: [WASAPISource::WASAPISource] Device '{0.0.1.00000000}.{f8344f71-2af8-42a7-a823-4ab9da2ccf36}' not found.  Waiting for device
+17:53:22.843: [Loaded global audio device]: 'Mic/Aux'
+17:53:23.112: [Media Source '⬜ Webcam Frame - Wide']: settings:
+17:53:23.112: 	input:                   C:\Users\kccou\OneDrive\Pictures\Overlays\Colorful Ink Blots\Webcam_01.webm
+17:53:23.112: 	input_format:            (null)
+17:53:23.112: 	speed:                   100
+17:53:23.112: 	is_looping:              yes
+17:53:23.112: 	is_hw_decoding:          no
+17:53:23.112: 	is_clear_on_media_end:   yes
+17:53:23.112: 	restart_on_activate:     yes
+17:53:23.112: 	close_when_inactive:     no
+17:53:23.116: [Media Source 'Animated Overlay - Be Right Back']: settings:
+17:53:23.116: 	input:                   C:\Users\kccou\OneDrive\Pictures\Overlays\Colorful Ink Blots\Be Right Back.webm
+17:53:23.116: 	input_format:            (null)
+17:53:23.116: 	speed:                   100
+17:53:23.116: 	is_looping:              yes
+17:53:23.116: 	is_hw_decoding:          no
+17:53:23.116: 	is_clear_on_media_end:   yes
+17:53:23.116: 	restart_on_activate:     yes
+17:53:23.116: 	close_when_inactive:     no
+17:53:23.117: [Media Source 'Animated Overlay - "Stream Ending"']: settings:
+17:53:23.117: 	input:                   C:\Users\kccou\OneDrive\Pictures\Overlays\Colorful Ink Blots\Stream Ending.webm
+17:53:23.117: 	input_format:            (null)
+17:53:23.117: 	speed:                   100
+17:53:23.117: 	is_looping:              yes
+17:53:23.117: 	is_hw_decoding:          no
+17:53:23.117: 	is_clear_on_media_end:   yes
+17:53:23.117: 	restart_on_activate:     yes
+17:53:23.117: 	close_when_inactive:     no
+17:53:23.148: warning: Could not update timestamps for skipped samples.
+17:53:23.158: warning: Could not update timestamps for skipped samples.
+17:53:23.259: warning: Could not update timestamps for skipped samples.
+17:53:23.342: [Media Source '⬜ Webcam Frame - Square']: settings:
+17:53:23.342: 	input:                   C:\Users\kccou\OneDrive\Pictures\Overlays\Colorful Ink Blots\webcm_02.webm
+17:53:23.342: 	input_format:            (null)
+17:53:23.342: 	speed:                   100
+17:53:23.342: 	is_looping:              yes
+17:53:23.342: 	is_hw_decoding:          no
+17:53:23.342: 	is_clear_on_media_end:   yes
+17:53:23.342: 	restart_on_activate:     yes
+17:53:23.342: 	close_when_inactive:     no
+17:53:23.360: [Media Source '⬜ Animated Overlay - Webcam & Chatbox']: settings:
+17:53:23.360: 	input:                   C:\Users\kccou\OneDrive\Pictures\Overlays\Colorful Ink Blots\Chat screen with webcam.webm
+17:53:23.360: 	input_format:            (null)
+17:53:23.360: 	speed:                   100
+17:53:23.360: 	is_looping:              yes
+17:53:23.360: 	is_hw_decoding:          no
+17:53:23.360: 	is_clear_on_media_end:   yes
+17:53:23.360: 	restart_on_activate:     yes
+17:53:23.360: 	close_when_inactive:     no
+17:53:23.360: [Media Source 'Animated Overlay - "Starting Soon"']: settings:
+17:53:23.360: 	input:                   C:\Users\kccou\OneDrive\Pictures\Overlays\Colorful Ink Blots\Stream Starting.webm
+17:53:23.360: 	input_format:            (null)
+17:53:23.360: 	speed:                   100
+17:53:23.360: 	is_looping:              yes
+17:53:23.360: 	is_hw_decoding:          no
+17:53:23.360: 	is_clear_on_media_end:   yes
+17:53:23.360: 	restart_on_activate:     yes
+17:53:23.360: 	close_when_inactive:     no
+17:53:23.377: Failed to open file 'C:\Users\kccou\OneDrive\Pictures\Overlays\Webcam_01_Alpha matte.png': No such file or directory
+17:53:23.377: gs_image_file_init_internal: Failed to load file 'C:\Users\kccou\OneDrive\Pictures\Overlays\Webcam_01_Alpha matte.png'
+17:53:23.391: [Media Source 'Colorful Inkblot Transition (Stinger)']: settings:
+17:53:23.391: 	input:                   C:\Users\kccou\OneDrive\Pictures\Overlays\Colorful Ink Blots\Stinger_(46 FRAME IN OBS).webm
+17:53:23.391: 	input_format:            (null)
+17:53:23.391: 	speed:                   100
+17:53:23.391: 	is_looping:              no
+17:53:23.391: 	is_hw_decoding:          yes
+17:53:23.391: 	is_clear_on_media_end:   yes
+17:53:23.391: 	restart_on_activate:     yes
+17:53:23.391: 	close_when_inactive:     no
+17:53:23.391: Switched to scene '[02] 🗣 Just Chatting'
+17:53:23.391: ------------------------------------------------
+17:53:23.391: Loaded scenes:
+17:53:23.391: - scene '[01] 🎬 Stream Starting':
+17:53:23.391:     - source: 'Animated Overlay - "Starting Soon"' (ffmpeg_source)
+17:53:23.391:     - source: '✨ Sparkle Animation' (image_source)
+17:53:23.391:     - source: '🌐 Username' (image_source)
+17:53:23.391: - scene '[02] 🗣 Just Chatting':
+17:53:23.393:     - source: 'Mic/Aux' (wasapi_input_capture)
+17:53:23.393:     - source: 'Desktop Audio' (wasapi_output_capture)
+17:53:23.393:     - source: '🌐 Username Banner' (group)
+17:53:23.393:         - source: '✨ Sparkle Animation' (image_source)
+17:53:23.393:         - source: '🌐 Username' (image_source)
+17:53:23.393:     - source: '🎥 DSLR' (group)
+17:53:23.393:         - source: '🎥 Video Capture Device - Sony DSLR' (dshow_input)
+17:53:23.393:             - filter: 'Color Correction' (color_filter)
+17:53:23.393:         - source: '💕 Hearts Animation' (image_source)
+17:53:23.393:     - source: '⬜ Animated Overlay - Webcam & Chatbox' (ffmpeg_source)
+17:53:23.393:     - source: '🐈 Temaki Cam' (group)
+17:53:23.393:         - source: '🎥 Video Capture Device - Webcam' (dshow_input)
+17:53:23.393:             - filter: 'Image Mask/Blend' (mask_filter)
+17:53:23.393:         - source: '⬜ Webcam Frame - Wide' (ffmpeg_source)
+17:53:23.393:         - source: '💕 Hearts Animation' (image_source)
+17:53:23.393:     - source: '💬 Chatbox' (browser_source)
+17:53:23.393: - scene '[03] 👾 In-Game':
+17:53:23.393:     - source: 'Desktop Audio' (wasapi_output_capture)
+17:53:23.393:     - source: 'Mic/Aux' (wasapi_input_capture)
+17:53:23.393:     - source: '👾 Game Capture' (game_capture)
+17:53:23.393:     - source: '🔔 Alertbox' (browser_source)
+17:53:23.393:         - monitoring: monitor only
+17:53:23.393:     - source: '🐈 Temaki-Cam' (group)
+17:53:23.393:         - source: '⬜ Webcam Frame - Wide' (ffmpeg_source)
+17:53:23.393:         - source: '🎥 Video Capture Device - Webcam' (dshow_input)
+17:53:23.393:             - filter: 'Image Mask/Blend' (mask_filter)
+17:53:23.393:         - source: '💕 Hearts Animation' (image_source)
+17:53:23.393:     - source: '🎥 DSLR & Frame' (group)
+17:53:23.393:         - source: '✨ Sparkle_Animation' (image_source)
+17:53:23.393:         - source: '🎥 Video Capture Device - Sony DSLR' (dshow_input)
+17:53:23.393:             - filter: 'Color Correction' (color_filter)
+17:53:23.393:         - source: '⬜ Webcam Frame - Square' (ffmpeg_source)
+17:53:23.393:         - source: '🌐 Username_Banner' (image_source)
+17:53:23.393:         - source: '💕 Hearts Animation' (image_source)
+17:53:23.394: - scene '[04] 😴 Be Right Back':
+17:53:23.394:     - source: 'Animated Overlay - Be Right Back' (ffmpeg_source)
+17:53:23.394:     - source: 'Sparkle Animation' (image_source)
+17:53:23.394:     - source: 'Username' (image_source)
+17:53:23.394: - scene '[05] 👋 Stream Ending':
+17:53:23.394:     - source: 'Animated Overlay - "Stream Ending"' (ffmpeg_source)
+17:53:23.394:     - source: 'Sparkle Animation(1)' (image_source)
+17:53:23.394:     - source: 'Username(1)' (image_source)
+17:53:23.394: ------------------------------------------------
+17:53:23.396: warning: Could not update timestamps for skipped samples.
+17:53:23.428: warning: Could not update timestamps for skipped samples.
+17:53:23.459: warning: Could not update timestamps for skipped samples.
+17:53:23.499: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: ⬜ Webcam Frame - Wide)
+17:53:23.499: 
+17:53:23.528: warning: Could not update timestamps for skipped samples.
+17:53:23.600: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: ⬜ Animated Overlay - Webcam & Chatbox)
+17:53:23.600: 
+17:53:23.923: ---------------------------------17:53:23.923: ---------------------------------
+
+17:53:23.923: [DShow Device: '🎥 Video Capture Device - Webcam'] settings updated: 
+17:53:23.923: [DShow Device: '🎥 Video Capture Device - Sony DSLR'] settings updated: 17:53:23.923: 	video device: USB Live camera
+
+17:53:23.923: 	video device: USB Video17:53:23.923: 	video path: \\?\usb#vid_0c45&pid_637a&mi_00#7&e1b4dbf&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+
+17:53:23.923: 	resolution: 640x480
+17:53:23.923: 	video path: \\?\usb#vid_534d&pid_2109&mi_00#6&37f55daf&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global17:53:23.923: 	flip: 0
+
+17:53:23.923: 	resolution: 1920x108017:53:23.923: 	fps: 30.00 (interval: 333333)
+
+17:53:23.923: 	format: YUY2
+17:53:23.923: 	flip: 0
+17:53:23.923: 	fps: 30.00 (interval: 333333)
+17:53:23.923: 	format: MJPEG
+17:53:24.295: [obs-websocket] WSServer::start: Not locked to IPv4 bindings
+17:53:24.297: [obs-websocket] server started successfully on port 4444
+17:53:24.297: [obs-websocket] io thread started
+17:53:26.347: DShow: Audio device 'Microphone (InnoGear UC016)':  not found
+17:53:26.347: 🎥 Video Capture Device - Sony DSLR: Audio configuration failed, ignoring audio
+17:53:35.522: [obs-websocket] new client connection from [::ffff:192.168.0.41]:63912
+17:53:42.286: warning: Could not update timestamps for discarded samples.
+17:53:54.119: warning: Could not update timestamps for discarded samples.
+17:54:11.806: warning: Could not update timestamps for discarded samples.
+17:54:30.241: warning: Could not update timestamps for discarded samples.
+17:54:48.121: warning: Could not update timestamps for discarded samples.
+17:55:04.876: warning: Could not update timestamps for discarded samples.
+17:55:21.311: warning: Could not update timestamps for discarded samples.
+17:55:36.327: warning: Could not update timestamps for discarded samples.
+17:55:50.758: warning: Could not update timestamps for discarded samples.
+17:56:03.779: warning: Could not update timestamps for discarded samples.
+17:56:15.894: warning: Could not update timestamps for discarded samples.
+17:56:27.964: warning: Could not update timestamps for discarded samples.
+17:56:41.965: warning: Could not update timestamps for discarded samples.
+17:56:55.950: warning: Could not update timestamps for discarded samples.
+17:57:09.767: warning: Could not update timestamps for discarded samples.
+17:57:23.679: warning: Could not update timestamps for discarded samples.
+17:57:38.497: warning: Could not update timestamps for discarded samples.
+17:57:54.866: warning: Could not update timestamps for discarded samples.
+17:58:11.414: warning: Could not update timestamps for discarded samples.
+17:58:26.750: warning: Could not update timestamps for discarded samples.
+17:58:42.184: warning: Could not update timestamps for discarded samples.
+17:58:58.010: warning: Could not update timestamps for discarded samples.
+17:59:12.944: warning: Could not update timestamps for discarded samples.
+17:59:28.540: warning: Could not update timestamps for discarded samples.
+17:59:44.560: warning: Could not update timestamps for discarded samples.
+18:00:00.516: warning: Could not update timestamps for discarded samples.
+18:00:17.025: warning: Could not update timestamps for discarded samples.
+18:00:31.667: warning: Could not update timestamps for discarded samples.
+18:00:40.711: warning: Could not update timestamps for discarded samples.
+18:00:53.863: warning: Could not update timestamps for discarded samples.
+18:01:08.540: warning: Could not update timestamps for discarded samples.
+18:01:24.679: warning: Could not update timestamps for discarded samples.
+18:01:41.741: warning: Could not update timestamps for discarded samples.
+18:01:58.962: warning: Could not update timestamps for discarded samples.
+18:02:18.201: warning: Could not update timestamps for discarded samples.
+18:02:35.866: warning: Could not update timestamps for discarded samples.
+18:02:54.735: warning: Could not update timestamps for discarded samples.
+18:03:10.509: adding 21 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: ⬜ Animated Overlay - Webcam & Chatbox)
+18:03:10.509: 
+18:03:13.600: warning: Could not update timestamps for discarded samples.
+18:03:30.688: warning: Could not update timestamps for discarded samples.
+18:03:47.827: warning: Could not update timestamps for discarded samples.
+18:04:03.966: warning: Could not update timestamps for discarded samples.
+18:04:18.152: warning: Could not update timestamps for discarded samples.
+18:04:32.292: warning: Could not update timestamps for discarded samples.
+18:04:46.933: warning: Could not update timestamps for discarded samples.
+18:05:02.598: warning: Could not update timestamps for discarded samples.
+18:05:16.645: warning: Could not update timestamps for discarded samples.
+18:05:31.231: warning: Could not update timestamps for discarded samples.
+18:05:33.911: [obs-websocket] GetTransitionData: duration is negative !
+18:05:33.913: User switched to scene '[03] 👾 In-Game'
+18:05:33.987: [game-capture: '👾 Game Capture'] attempting to hook process: StardewModdingAPI.exe
+18:05:33.998: [game-capture: '👾 Game Capture'] using helper (compatibility hook)
+18:05:34.155: [game-capture: '👾 Game Capture'] hook not loaded yet, retrying..
+18:05:35.980: [game-capture: '👾 Game Capture'] attempting to hook process: StardewModdingAPI.exe
+18:05:35.998: [game-capture: '👾 Game Capture'] using helper (compatibility hook)
+18:05:36.076: [obs-websocket] GetTransitionData: duration is negative !
+18:05:36.158: [obs-websocket] GetTransitionData: duration is negative !
+18:05:37.989: [game-capture: '👾 Game Capture'] attempting to hook process: StardewModdingAPI.exe
+18:05:38.211: [game-capture: '👾 Game Capture'] d3d9 shared texture capture successful
+18:05:38.219: [game-capture: '👾 Game Capture'] shared texture capture successful
+18:05:42.095: [game-capture: '👾 Game Capture'] Hooked DXGI
+18:05:49.465: warning: Could not update timestamps for discarded samples.
+18:06:04.464: warning: Could not update timestamps for discarded samples.
+18:06:19.827: warning: Could not update timestamps for discarded samples.
+18:06:34.701: warning: Could not update timestamps for discarded samples.
+18:06:49.729: warning: Could not update timestamps for discarded samples.
+18:07:04.914: warning: Could not update timestamps for discarded samples.
+18:07:19.666: warning: Could not update timestamps for discarded samples.
+18:07:34.677: warning: Could not update timestamps for discarded samples.
+18:07:49.213: warning: Could not update timestamps for discarded samples.
+18:08:03.947: warning: Could not update timestamps for discarded samples.
+18:08:22.187: warning: Could not update timestamps for discarded samples.
+18:08:33.424: warning: Could not update timestamps for discarded samples.
+18:08:41.009: [obs-websocket] GetTransitionData: duration is negative !
+18:08:41.275: User switched to scene '[02] 🗣 Just Chatting'
+18:08:41.750: adding 106 milliseconds of audio buffering, total audio buffering is now 213 milliseconds (source: ⬜ Animated Overlay - Webcam & Chatbox)
+18:08:41.750: 
+18:08:42.633: warning: Could not update timestamps for discarded samples.
+18:08:43.032: adding 192 milliseconds of audio buffering, total audio buffering is now 405 milliseconds (source: ⬜ Webcam Frame - Wide)
+18:08:43.032: 
+18:08:43.169: [obs-websocket] GetTransitionData: duration is negative !
+18:08:43.450: adding 149 milliseconds of audio buffering, total audio buffering is now 554 milliseconds (source: ⬜ Webcam Frame - Wide)
+18:08:43.450: 
+18:08:43.684: [obs-websocket] GetTransitionData: duration is negative !
+18:08:43.704: [game-capture: '👾 Game Capture'] capture stopped
+18:08:46.116: [obs-websocket] GetTransitionData: duration is negative !
+18:08:46.143: [game-capture: '👾 Game Capture'] attempting to hook process: StardewModdingAPI.exe
+18:08:46.306: User switched to scene '[03] 👾 In-Game'
+18:08:48.263: [obs-websocket] GetTransitionData: duration is negative !
+18:08:48.862: [obs-websocket] GetTransitionData: duration is negative !
+18:08:49.206: [game-capture: '👾 Game Capture'] d3d9 shared texture capture successful
+18:08:49.217: [game-capture: '👾 Game Capture'] shared texture capture successful
+18:09:05.951: warning: Could not update timestamps for discarded samples.
+18:09:09.134: warning: Could not update timestamps for discarded samples.
+18:09:26.441: warning: Could not update timestamps for discarded samples.
+18:09:32.966: warning: Could not update timestamps for discarded samples.
+18:09:47.263: warning: Could not update timestamps for discarded samples.
+18:09:56.684: warning: Could not update timestamps for discarded samples.
+18:10:08.027: warning: Could not update timestamps for discarded samples.
+18:10:20.502: warning: Could not update timestamps for discarded samples.
+18:10:28.715: warning: Could not update timestamps for discarded samples.
+18:10:44.532: warning: Could not update timestamps for discarded samples.
+18:10:49.414: warning: Could not update timestamps for discarded samples.
+18:11:05.133: warning: Could not update timestamps for discarded samples.
+18:11:21.391: warning: Could not update timestamps for discarded samples.
+18:11:36.076: warning: Could not update timestamps for discarded samples.
+18:11:50.418: warning: Could not update timestamps for discarded samples.
+18:12:05.025: warning: Could not update timestamps for discarded samples.
+18:12:19.507: warning: Could not update timestamps for discarded samples.
+18:12:33.295: warning: Could not update timestamps for discarded samples.
+18:12:49.029: warning: Could not update timestamps for discarded samples.
+18:13:06.534: warning: Could not update timestamps for discarded samples.
+18:13:21.598: warning: Could not update timestamps for discarded samples.
+18:13:37.500: warning: Could not update timestamps for discarded samples.
+18:13:52.990: warning: Could not update timestamps for discarded samples.
+18:14:06.872: warning: Could not update timestamps for discarded samples.
+18:14:20.280: warning: Could not update timestamps for discarded samples.
+18:14:34.811: warning: Could not update timestamps for discarded samples.
+18:14:49.414: warning: Could not update timestamps for discarded samples.
+18:15:05.640: warning: Could not update timestamps for discarded samples.
+18:15:22.300: warning: Could not update timestamps for discarded samples.
+18:15:35.521: warning: Could not update timestamps for discarded samples.
+18:15:49.181: warning: Could not update timestamps for discarded samples.
+18:16:02.552: warning: Could not update timestamps for discarded samples.
+18:16:15.826: warning: Could not update timestamps for discarded samples.
+18:16:29.698: warning: Could not update timestamps for discarded samples.
+18:16:44.049: warning: Could not update timestamps for discarded samples.
+18:16:58.159: warning: Could not update timestamps for discarded samples.
+18:17:14.236: warning: Could not update timestamps for discarded samples.
+18:17:30.629: warning: Could not update timestamps for discarded samples.
+18:17:46.215: warning: Could not update timestamps for discarded samples.
+18:18:01.715: warning: Could not update timestamps for discarded samples.
+18:18:17.341: warning: Could not update timestamps for discarded samples.
+18:18:31.524: warning: Could not update timestamps for discarded samples.
+18:18:46.129: warning: Could not update timestamps for discarded samples.
+18:18:59.950: warning: Could not update timestamps for discarded samples.
+18:19:15.086: warning: Could not update timestamps for discarded samples.
+18:19:31.819: warning: Could not update timestamps for discarded samples.
+18:19:47.410: warning: Could not update timestamps for discarded samples.
+18:20:04.220: warning: Could not update timestamps for discarded samples.
+18:20:18.174: warning: Could not update timestamps for discarded samples.
+18:20:31.884: warning: Could not update timestamps for discarded samples.
+18:20:45.798: warning: Could not update timestamps for discarded samples.
+18:20:59.430: warning: Could not update timestamps for discarded samples.
+18:21:14.126: warning: Could not update timestamps for discarded samples.
+18:21:27.770: warning: Could not update timestamps for discarded samples.
+18:21:41.107: warning: Could not update timestamps for discarded samples.
+18:21:54.544: warning: Could not update timestamps for discarded samples.
+18:22:07.911: warning: Could not update timestamps for discarded samples.
+18:22:21.279: warning: Could not update timestamps for discarded samples.
+18:22:34.334: warning: Could not update timestamps for discarded samples.
+18:22:47.654: warning: Could not update timestamps for discarded samples.
+18:23:01.083: warning: Could not update timestamps for discarded samples.
+18:23:14.477: warning: Could not update timestamps for discarded samples.
+18:23:27.855: warning: Could not update timestamps for discarded samples.
+18:23:41.231: warning: Could not update timestamps for discarded samples.
+18:23:54.892: warning: Could not update timestamps for discarded samples.
+18:24:08.361: warning: Could not update timestamps for discarded samples.
+18:24:21.501: warning: Could not update timestamps for discarded samples.
+18:24:34.899: warning: Could not update timestamps for discarded samples.
+18:24:48.355: warning: Could not update timestamps for discarded samples.
+18:25:01.560: warning: Could not update timestamps for discarded samples.
+18:25:16.309: warning: Could not update timestamps for discarded samples.
+18:25:31.310: warning: Could not update timestamps for discarded samples.
+18:25:46.313: warning: Could not update timestamps for discarded samples.
+18:26:01.317: warning: Could not update timestamps for discarded samples.
+18:26:16.319: warning: Could not update timestamps for discarded samples.
+18:26:33.118: warning: Could not update timestamps for discarded samples.
+18:26:48.906: warning: Could not update timestamps for discarded samples.
+18:27:05.346: warning: Could not update timestamps for discarded samples.
+18:27:19.832: warning: Could not update timestamps for discarded samples.
+18:27:34.632: warning: Could not update timestamps for discarded samples.
+18:27:49.002: warning: Could not update timestamps for discarded samples.
+18:28:03.932: warning: Could not update timestamps for discarded samples.
+18:28:18.625: warning: Could not update timestamps for discarded samples.
+18:28:32.473: warning: Could not update timestamps for discarded samples.
+18:28:46.529: warning: Could not update timestamps for discarded samples.
+18:29:01.353: warning: Could not update timestamps for discarded samples.
+18:29:16.356: warning: Could not update timestamps for discarded samples.
+18:29:31.358: warning: Could not update timestamps for discarded samples.
+18:29:46.361: warning: Could not update timestamps for discarded samples.
+18:30:01.364: warning: Could not update timestamps for discarded samples.
+18:30:16.368: warning: Could not update timestamps for discarded samples.
+18:30:31.370: warning: Could not update timestamps for discarded samples.
+18:30:46.374: warning: Could not update timestamps for discarded samples.
+18:31:01.376: warning: Could not update timestamps for discarded samples.
+18:31:16.379: warning: Could not update timestamps for discarded samples.
+18:31:31.382: warning: Could not update timestamps for discarded samples.
+18:31:46.385: warning: Could not update timestamps for discarded samples.
+18:32:01.409: warning: Could not update timestamps for discarded samples.
+18:32:16.391: warning: Could not update timestamps for discarded samples.
+18:32:31.394: warning: Could not update timestamps for discarded samples.
+18:32:46.852: warning: Could not update timestamps for discarded samples.
+18:33:01.400: warning: Could not update timestamps for discarded samples.
+18:33:16.403: warning: Could not update timestamps for discarded samples.
+18:33:31.942: warning: Could not update timestamps for discarded samples.
+18:33:47.820: warning: Could not update timestamps for discarded samples.
+18:34:01.535: warning: Could not update timestamps for discarded samples.
+18:34:16.415: warning: Could not update timestamps for discarded samples.
+18:34:31.420: warning: Could not update timestamps for discarded samples.
+18:34:46.421: warning: Could not update timestamps for discarded samples.
+18:35:01.425: warning: Could not update timestamps for discarded samples.
+18:35:16.429: warning: Could not update timestamps for discarded samples.
+18:35:31.432: warning: Could not update timestamps for discarded samples.
+18:35:46.433: warning: Could not update timestamps for discarded samples.
+18:36:01.435: warning: Could not update timestamps for discarded samples.
+18:36:16.439: warning: Could not update timestamps for discarded samples.
+18:36:31.450: warning: Could not update timestamps for discarded samples.
+18:36:46.451: warning: Could not update timestamps for discarded samples.
+18:37:01.449: warning: Could not update timestamps for discarded samples.
+18:37:16.453: warning: Could not update timestamps for discarded samples.
+18:37:31.456: warning: Could not update timestamps for discarded samples.
+18:37:46.458: warning: Could not update timestamps for discarded samples.
+18:38:01.460: warning: Could not update timestamps for discarded samples.
+18:38:16.464: warning: Could not update timestamps for discarded samples.
+18:38:31.466: warning: Could not update timestamps for discarded samples.
+18:38:46.470: warning: Could not update timestamps for discarded samples.
+18:39:01.473: warning: Could not update timestamps for discarded samples.
+18:39:16.479: warning: Could not update timestamps for discarded samples.
+18:39:31.478: warning: Could not update timestamps for discarded samples.
+18:39:46.541: warning: Could not update timestamps for discarded samples.
+18:40:02.636: warning: Could not update timestamps for discarded samples.
+18:40:18.122: warning: Could not update timestamps for discarded samples.
+18:40:33.724: warning: Could not update timestamps for discarded samples.
+18:40:48.815: warning: Could not update timestamps for discarded samples.
+18:41:04.292: warning: Could not update timestamps for discarded samples.
+18:41:19.754: warning: Could not update timestamps for discarded samples.
+18:41:35.464: warning: Could not update timestamps for discarded samples.
+18:41:51.235: warning: Could not update timestamps for discarded samples.
+18:42:05.909: >>> nv12 tex not active, fall back to old qsv encoder
+18:42:05.909: [qsv encoder: 'simple_h264_stream'] settings:
+18:42:05.909: 	rate_control:   CBR
+18:42:05.909: 	target_bitrate: 6000
+18:42:05.909: 	fps_num:        60
+18:42:05.909: 	fps_den:        1
+18:42:05.909: 	width:          1280
+18:42:05.909: 	height:         720
+18:42:05.909: [qsv encoder: 'simple_h264_stream'] debug info:
+18:42:05.928: 	impl:           D3D11
+18:42:05.928: 	surf:           D3D11
+18:42:05.998: 	m_nSurfNum:     12
+18:42:06.001: 	m_nTaskPool:    4
+18:42:06.001: 	major:          1
+18:42:06.001: 	minor:          20
+18:42:06.001: ---------------------------------
+18:42:06.002: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+18:42:06.002: 
+18:42:06.124: ==== Recording Start ===============================================
+18:42:06.124: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/kccou/Videos/2021-03-04 18-42-05.mkv'...
+18:42:06.510: warning: Could not update timestamps for discarded samples.
+18:42:13.473: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/kccou/Videos/2021-03-04 18-42-05.mkv' stopped
+18:42:13.473: Output 'simple_file_output': stopping
+18:42:13.473: Output 'simple_file_output': Total frames output: 402
+18:42:13.473: Output 'simple_file_output': Total drawn frames: 387 (441 attempted)
+18:42:13.473: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 54 (12.2%)
+18:42:13.474: ==== Recording Stop ================================================
+18:42:13.518: warning: 2 frames left in the queue on closing
+18:42:22.717: warning: Could not update timestamps for discarded samples.
+18:42:37.564: warning: Could not update timestamps for discarded samples.
+18:42:52.363: warning: Could not update timestamps for discarded samples.
+18:42:55.358: WASAPI: Device 'Microphone (InnoGear UC016)' [48000 Hz] initialized
+18:42:56.836: >>> nv12 tex not active, fall back to old qsv encoder
+18:42:56.836: [qsv encoder: 'simple_h264_stream'] settings:
+18:42:56.836: 	rate_control:   CBR
+18:42:56.836: 	target_bitrate: 6000
+18:42:56.836: 	fps_num:        60
+18:42:56.836: 	fps_den:        1
+18:42:56.836: 	width:          1280
+18:42:56.836: 	height:         720
+18:42:56.836: [qsv encoder: 'simple_h264_stream'] debug info:
+18:42:56.860: 	impl:           D3D11
+18:42:56.860: 	surf:           D3D11
+18:42:56.919: 	m_nSurfNum:     12
+18:42:56.923: 	m_nTaskPool:    4
+18:42:56.924: 	major:          1
+18:42:56.924: 	minor:          20
+18:42:56.924: ---------------------------------
+18:42:56.924: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+18:42:56.924: 
+18:42:56.970: ==== Recording Start ===============================================
+18:42:56.970: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/kccou/Videos/2021-03-04 18-42-56.mkv'...
+18:43:05.428: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/kccou/Videos/2021-03-04 18-42-56.mkv' stopped
+18:43:05.428: Output 'simple_file_output': stopping
+18:43:05.428: Output 'simple_file_output': Total frames output: 470
+18:43:05.428: Output 'simple_file_output': Total drawn frames: 345 (507 attempted)
+18:43:05.428: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 162 (32.0%)
+18:43:05.430: ==== Recording Stop ================================================
+18:43:05.431: Video stopped, number of skipped frames due to encoding lag: 2/505 (0.4%)
+18:43:05.464: warning: 2 frames left in the queue on closing
+18:43:06.708: warning: Could not update timestamps for discarded samples.
+18:43:22.640: warning: Could not update timestamps for discarded samples.
+18:43:29.633: >>> nv12 tex not active, fall back to old qsv encoder
+18:43:29.634: [qsv encoder: 'simple_h264_stream'] settings:
+18:43:29.634: 	rate_control:   CBR
+18:43:29.634: 	target_bitrate: 6000
+18:43:29.634: 	fps_num:        60
+18:43:29.634: 	fps_den:        1
+18:43:29.634: 	width:          1280
+18:43:29.634: 	height:         720
+18:43:29.634: [qsv encoder: 'simple_h264_stream'] debug info:
+18:43:29.653: 	impl:           D3D11
+18:43:29.653: 	surf:           D3D11
+18:43:29.710: 	m_nSurfNum:     12
+18:43:29.713: 	m_nTaskPool:    4
+18:43:29.713: 	major:          1
+18:43:29.713: 	minor:          20
+18:43:29.713: ---------------------------------
+18:43:29.714: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+18:43:29.714: 
+18:43:29.771: ==== Recording Start ===============================================
+18:43:29.771: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/kccou/Videos/2021-03-04 18-43-29.mkv'...
+18:43:37.332: warning: Could not update timestamps for discarded samples.
+18:43:39.747: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/kccou/Videos/2021-03-04 18-43-29.mkv' stopped
+18:43:39.748: Output 'simple_file_output': stopping
+18:43:39.748: Output 'simple_file_output': Total frames output: 560
+18:43:39.748: Output 'simple_file_output': Total drawn frames: 537 (598 attempted)
+18:43:39.748: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 61 (10.2%)
+18:43:39.749: ==== Recording Stop ================================================
+18:43:39.798: warning: 2 frames left in the queue on closing
+18:43:53.595: warning: Could not update timestamps for discarded samples.
+18:44:08.784: warning: Could not update timestamps for discarded samples.
+18:44:24.102: warning: Could not update timestamps for discarded samples.
+18:44:39.042: warning: Could not update timestamps for discarded samples.
+18:44:54.074: warning: Could not update timestamps for discarded samples.
+18:45:09.285: warning: Could not update timestamps for discarded samples.
+18:45:24.455: warning: Could not update timestamps for discarded samples.
+18:45:39.311: warning: Could not update timestamps for discarded samples.
+18:45:54.438: warning: Could not update timestamps for discarded samples.
+18:46:09.663: warning: Could not update timestamps for discarded samples.
+18:46:24.805: warning: Could not update timestamps for discarded samples.
+18:46:39.813: warning: Could not update timestamps for discarded samples.
+18:46:54.866: warning: Could not update timestamps for discarded samples.
+18:47:09.934: warning: Could not update timestamps for discarded samples.
+18:47:24.747: warning: Could not update timestamps for discarded samples.
+18:47:39.843: warning: Could not update timestamps for discarded samples.
+18:47:54.923: warning: Could not update timestamps for discarded samples.
+18:48:09.630: warning: Could not update timestamps for discarded samples.
+18:48:26.272: warning: Could not update timestamps for discarded samples.
+18:48:41.322: warning: Could not update timestamps for discarded samples.
+18:48:56.235: warning: Could not update timestamps for discarded samples.
+18:49:11.074: warning: Could not update timestamps for discarded samples.
+18:49:25.509: warning: Could not update timestamps for discarded samples.
+18:49:40.002: warning: Could not update timestamps for discarded samples.
+18:49:54.806: warning: Could not update timestamps for discarded samples.
+18:50:09.475: warning: Could not update timestamps for discarded samples.
+18:50:23.700: warning: Could not update timestamps for discarded samples.
+18:50:38.191: warning: Could not update timestamps for discarded samples.
+18:50:53.052: warning: Could not update timestamps for discarded samples.
+18:51:07.511: warning: Could not update timestamps for discarded samples.
+18:51:21.968: warning: Could not update timestamps for discarded samples.
+18:51:36.610: warning: Could not update timestamps for discarded samples.
+18:51:51.497: warning: Could not update timestamps for discarded samples.
+18:52:05.995: warning: Could not update timestamps for discarded samples.
+18:52:20.378: warning: Could not update timestamps for discarded samples.
+18:52:35.268: warning: Could not update timestamps for discarded samples.
+18:52:50.894: warning: Could not update timestamps for discarded samples.
+18:53:05.682: warning: Could not update timestamps for discarded samples.
+18:53:21.164: warning: Could not update timestamps for discarded samples.
+18:53:38.358: warning: Could not update timestamps for discarded samples.
+18:53:54.592: warning: Could not update timestamps for discarded samples.
+18:54:09.524: warning: Could not update timestamps for discarded samples.
+18:54:25.196: warning: Could not update timestamps for discarded samples.
+18:54:40.431: warning: Could not update timestamps for discarded samples.
+18:54:55.456: warning: Could not update timestamps for discarded samples.
+18:55:10.558: warning: Could not update timestamps for discarded samples.
+18:55:25.866: warning: Could not update timestamps for discarded samples.
+18:55:41.062: warning: Could not update timestamps for discarded samples.
+18:55:56.101: warning: Could not update timestamps for discarded samples.
+18:56:11.452: warning: Could not update timestamps for discarded samples.
+18:56:26.792: warning: Could not update timestamps for discarded samples.
+18:56:41.757: warning: Could not update timestamps for discarded samples.
+18:56:57.202: warning: Could not update timestamps for discarded samples.
+18:57:12.544: warning: Could not update timestamps for discarded samples.
+18:57:27.657: warning: Could not update timestamps for discarded samples.
+18:57:42.576: warning: Could not update timestamps for discarded samples.
+18:57:57.883: warning: Could not update timestamps for discarded samples.
+18:58:13.952: warning: Could not update timestamps for discarded samples.
+18:58:30.745: warning: Could not update timestamps for discarded samples.
+18:58:32.228: [obs-websocket] GetTransitionData: duration is negative !
+18:58:32.228: User switched to scene '[01] 🎬 Stream Starting'
+18:58:34.348: [obs-websocket] GetTransitionData: duration is negative !
+18:58:34.908: [obs-websocket] GetTransitionData: duration is negative !
+18:58:34.912: [game-capture: '👾 Game Capture'] capture stopped
+18:58:47.245: warning: Could not update timestamps for discarded samples.
+18:58:50.746: >>> nv12 tex not active, fall back to old qsv encoder
+18:58:50.746: [qsv encoder: 'simple_h264_stream'] settings:
+18:58:50.746: 	rate_control:   CBR
+18:58:50.746: 	target_bitrate: 6000
+18:58:50.746: 	fps_num:        60
+18:58:50.746: 	fps_den:        1
+18:58:50.746: 	width:          1280
+18:58:50.746: 	height:         720
+18:58:50.746: [qsv encoder: 'simple_h264_stream'] debug info:
+18:58:50.761: 	impl:           D3D11
+18:58:50.761: 	surf:           D3D11
+18:58:50.798: 	m_nSurfNum:     12
+18:58:50.801: 	m_nTaskPool:    4
+18:58:50.801: 	major:          1
+18:58:50.801: 	minor:          20
+18:58:50.801: ---------------------------------
+18:58:50.801: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: 3
+18:58:50.801: 
+18:58:50.805: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://iad05.contribute.live-video.net/app...
+18:58:50.807: [qsv encoder: 'simple_h264_stream'] settings:
+18:58:50.807: 	rate_control:   CBR
+18:58:50.808: 	target_bitrate: 6000
+18:58:50.808: 	fps_num:        60
+18:58:50.808: 	fps_den:        1
+18:58:50.808: 	width:          1280
+18:58:50.808: 	height:         720
+18:58:50.808: [qsv encoder: 'simple_h264_stream'] debug info:
+18:58:50.852: [rtmp stream: 'simple_stream'] Interface: Intel(R) Ethernet Connection I217-LM #2 (ethernet, 1000 mbps)
+18:58:50.852: 	m_nSurfNum:     12
+18:58:50.855: 	m_nTaskPool:    4
+18:58:50.858: [qsv encoder: 'simple_h264_stream'] settings:
+18:58:50.858: 	rate_control:   CBR
+18:58:50.858: 	target_bitrate: 6000
+18:58:50.858: 	fps_num:        60
+18:58:50.858: 	fps_den:        1
+18:58:50.858: 	width:          1280
+18:58:50.858: 	height:         720
+18:58:50.858: [qsv encoder: 'simple_h264_stream'] debug info:
+18:58:50.901: 	m_nSurfNum:     12
+18:58:50.903: 	m_nTaskPool:    4
+18:58:50.929: ==== Recording Start ===============================================
+18:58:50.929: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/kccou/Videos/2021-03-04 18-58-50.mkv'...
+18:58:52.527: [rtmp stream: 'simple_stream'] Connection to rtmp://iad05.contribute.live-video.net/app successful
+18:58:52.529: ==== Streaming Start ===============================================
+18:59:02.249: warning: Could not update timestamps for discarded samples.
+18:59:17.252: warning: Could not update timestamps for discarded samples.
+18:59:32.256: warning: Could not update timestamps for discarded samples.
+18:59:47.257: warning: Could not update timestamps for discarded samples.
+19:00:02.261: warning: Could not update timestamps for discarded samples.
+19:00:17.264: warning: Could not update timestamps for discarded samples.
+19:00:19.513: Device 'Microphone (InnoGear UC016)' invalidated.  Retrying
+19:00:22.567: WASAPI: Device 'Microphone (InnoGear UC016)' [48000 Hz] initialized
+19:00:32.267: warning: Could not update timestamps for discarded samples.
+19:00:47.271: warning: Could not update timestamps for discarded samples.
+19:01:02.273: warning: Could not update timestamps for discarded samples.
+19:01:11.373: [obs-websocket] GetTransitionData: duration is negative !
+19:01:11.581: User switched to scene '[02] 🗣 Just Chatting'
+19:01:13.512: [obs-websocket] GetTransitionData: duration is negative !
+19:01:14.045: [obs-websocket] GetTransitionData: duration is negative !
+19:01:28.988: warning: Could not update timestamps for discarded samples.
+19:01:52.364: warning: Could not update timestamps for discarded samples.
+19:01:52.465: warning: Could not update timestamps for discarded samples.
+19:02:11.692: [obs-websocket] GetTransitionData: duration is negative !
+19:02:11.765: User switched to scene '[03] 👾 In-Game'
+19:02:11.936: [game-capture: '👾 Game Capture'] attempting to hook process: StardewModdingAPI.exe
+19:02:12.443: [game-capture: '👾 Game Capture'] d3d9 shared texture capture successful
+19:02:12.557: [game-capture: '👾 Game Capture'] shared texture capture successful
+19:02:14.014: [obs-websocket] GetTransitionData: duration is negative !
+19:02:14.065: adding 192 milliseconds of audio buffering, total audio buffering is now 746 milliseconds (source: ⬜ Animated Overlay - Webcam & Chatbox)
+19:02:14.065: 
+19:02:14.297: Max audio buffering reached!
+19:02:14.297: adding 213 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: ⬜ Animated Overlay - Webcam & Chatbox)
+19:02:14.297: 
+19:02:14.783: [obs-websocket] GetTransitionData: duration is negative !
+19:02:30.442: warning: Could not update timestamps for discarded samples.
+19:02:46.080: warning: Could not update timestamps for discarded samples.
+19:03:01.260: warning: Could not update timestamps for discarded samples.
+19:03:17.361: warning: Could not update timestamps for discarded samples.
+19:03:32.895: warning: Could not update timestamps for discarded samples.
+19:03:48.185: warning: Could not update timestamps for discarded samples.
+19:04:03.811: warning: Could not update timestamps for discarded samples.
+19:04:19.142: warning: Could not update timestamps for discarded samples.
+19:04:34.177: warning: Could not update timestamps for discarded samples.
+19:04:49.281: warning: Could not update timestamps for discarded samples.
+19:05:04.617: warning: Could not update timestamps for discarded samples.
+19:05:19.791: warning: Could not update timestamps for discarded samples.
+19:05:34.971: warning: Could not update timestamps for discarded samples.
+19:05:50.333: warning: Could not update timestamps for discarded samples.
+19:06:05.574: warning: Could not update timestamps for discarded samples.
+19:06:20.776: warning: Could not update timestamps for discarded samples.
+19:06:36.669: warning: Could not update timestamps for discarded samples.
+19:06:52.336: warning: Could not update timestamps for discarded samples.
+19:07:07.597: warning: Could not update timestamps for discarded samples.
+19:07:22.986: warning: Could not update timestamps for discarded samples.
+19:07:38.552: warning: Could not update timestamps for discarded samples.
+19:07:53.771: warning: Could not update timestamps for discarded samples.
+19:08:09.182: warning: Could not update timestamps for discarded samples.
+19:08:26.471: warning: Could not update timestamps for discarded samples.
+19:08:47.755: warning: Could not update timestamps for discarded samples.
+19:08:48.222: warning: Could not update timestamps for discarded samples.
+19:09:11.079: warning: Could not update timestamps for discarded samples.
+19:09:15.198: warning: Could not update timestamps for discarded samples.
+19:09:34.140: warning: Could not update timestamps for discarded samples.
+19:09:41.405: warning: Could not update timestamps for discarded samples.
+19:09:58.146: warning: Could not update timestamps for discarded samples.
+19:10:09.294: warning: Could not update timestamps for discarded samples.
+19:10:21.070: warning: Could not update timestamps for discarded samples.
+19:10:36.378: warning: Could not update timestamps for discarded samples.
+19:10:44.720: warning: Could not update timestamps for discarded samples.
+19:11:03.899: warning: Could not update timestamps for discarded samples.
+19:11:08.847: warning: Could not update timestamps for discarded samples.
+19:11:30.260: warning: Could not update timestamps for discarded samples.
+19:11:31.215: warning: Could not update timestamps for discarded samples.
+19:11:53.739: warning: Could not update timestamps for discarded samples.
+19:11:56.398: warning: Could not update timestamps for discarded samples.
+19:12:17.430: warning: Could not update timestamps for discarded samples.
+19:12:23.335: warning: Could not update timestamps for discarded samples.
+19:12:40.547: warning: Could not update timestamps for discarded samples.
+19:12:49.667: warning: Could not update timestamps for discarded samples.
+19:13:03.755: warning: Could not update timestamps for discarded samples.
+19:13:16.458: warning: Could not update timestamps for discarded samples.
+19:13:26.805: warning: Could not update timestamps for discarded samples.
+19:13:42.853: warning: Could not update timestamps for discarded samples.
+19:13:49.545: warning: Could not update timestamps for discarded samples.
+19:14:09.865: warning: Could not update timestamps for discarded samples.
+19:14:12.140: warning: Could not update timestamps for discarded samples.
+19:14:34.256: warning: Could not update timestamps for discarded samples.
+19:14:35.513: warning: Could not update timestamps for discarded samples.
+19:14:55.371: warning: Could not update timestamps for discarded samples.
+19:14:59.369: warning: Could not update timestamps for discarded samples.
+19:15:16.314: warning: Could not update timestamps for discarded samples.
+19:15:23.074: warning: Could not update timestamps for discarded samples.
+19:15:36.878: warning: Could not update timestamps for discarded samples.
+19:15:47.068: warning: Could not update timestamps for discarded samples.
+19:15:57.729: warning: Could not update timestamps for discarded samples.
+19:16:12.048: warning: Could not update timestamps for discarded samples.
+19:16:18.489: warning: Could not update timestamps for discarded samples.
+19:16:37.878: warning: Could not update timestamps for discarded samples.
+19:16:39.717: warning: Could not update timestamps for discarded samples.
+19:17:01.277: warning: Could not update timestamps for discarded samples.
+19:17:03.069: warning: Could not update timestamps for discarded samples.
+19:17:22.822: warning: Could not update timestamps for discarded samples.
+19:17:28.656: warning: Could not update timestamps for discarded samples.
+19:17:44.903: warning: Could not update timestamps for discarded samples.
+19:17:53.941: warning: Could not update timestamps for discarded samples.
+19:18:06.456: warning: Could not update timestamps for discarded samples.
+19:18:19.257: warning: Could not update timestamps for discarded samples.
+19:18:27.891: warning: Could not update timestamps for discarded samples.
+19:18:43.152: warning: Could not update timestamps for discarded samples.
+19:18:48.752: warning: Could not update timestamps for discarded samples.
+19:19:06.584: warning: Could not update timestamps for discarded samples.
+19:19:09.237: warning: Could not update timestamps for discarded samples.
+19:19:29.980: warning: Could not update timestamps for discarded samples.
+19:19:30.004: warning: Could not update timestamps for discarded samples.
+19:19:50.731: warning: Could not update timestamps for discarded samples.
+19:19:53.569: warning: Could not update timestamps for discarded samples.
+19:20:11.710: warning: Could not update timestamps for discarded samples.
+19:20:17.275: warning: Could not update timestamps for discarded samples.
+19:20:32.325: warning: Could not update timestamps for discarded samples.
+19:20:40.806: warning: Could not update timestamps for discarded samples.
+19:20:53.056: warning: Could not update timestamps for discarded samples.
+19:21:04.419: warning: Could not update timestamps for discarded samples.
+19:21:13.765: warning: Could not update timestamps for discarded samples.
+19:21:27.950: warning: Could not update timestamps for discarded samples.
+19:21:34.295: warning: Could not update timestamps for discarded samples.
+19:21:51.467: warning: Could not update timestamps for discarded samples.
+19:21:54.808: warning: Could not update timestamps for discarded samples.
+19:22:14.884: warning: Could not update timestamps for discarded samples.
+19:22:15.320: warning: Could not update timestamps for discarded samples.
+19:22:35.981: warning: Could not update timestamps for discarded samples.
+19:22:38.331: warning: Could not update timestamps for discarded samples.
+19:22:56.365: warning: Could not update timestamps for discarded samples.
+19:23:01.761: warning: Could not update timestamps for discarded samples.
+19:23:16.831: warning: Could not update timestamps for discarded samples.
+19:23:25.681: warning: Could not update timestamps for discarded samples.
+19:23:37.344: warning: Could not update timestamps for discarded samples.
+19:23:50.482: warning: Could not update timestamps for discarded samples.
+19:23:58.137: warning: Could not update timestamps for discarded samples.
+19:24:14.524: warning: Could not update timestamps for discarded samples.
+19:24:19.027: warning: Could not update timestamps for discarded samples.
+19:24:39.142: warning: Could not update timestamps for discarded samples.
+19:24:40.679: warning: Could not update timestamps for discarded samples.
+19:25:02.056: warning: Could not update timestamps for discarded samples.
+19:25:03.751: warning: Could not update timestamps for discarded samples.
+19:25:23.865: warning: Could not update timestamps for discarded samples.
+19:25:28.359: warning: Could not update timestamps for discarded samples.
+19:25:45.275: warning: Could not update timestamps for discarded samples.
+19:25:53.459: warning: Could not update timestamps for discarded samples.
+19:26:06.656: warning: Could not update timestamps for discarded samples.
+19:26:17.648: warning: Could not update timestamps for discarded samples.
+19:26:28.042: warning: Could not update timestamps for discarded samples.
+19:26:42.250: warning: Could not update timestamps for discarded samples.
+19:26:49.180: warning: Could not update timestamps for discarded samples.
+19:27:06.924: warning: Could not update timestamps for discarded samples.
+19:27:10.702: warning: Could not update timestamps for discarded samples.
+19:27:30.939: warning: Could not update timestamps for discarded samples.
+19:27:31.655: warning: Could not update timestamps for discarded samples.
+19:27:52.443: warning: Could not update timestamps for discarded samples.
+19:27:55.143: warning: Could not update timestamps for discarded samples.
+19:28:13.395: warning: Could not update timestamps for discarded samples.
+19:28:18.927: warning: Could not update timestamps for discarded samples.
+19:28:34.371: warning: Could not update timestamps for discarded samples.
+19:28:42.881: warning: Could not update timestamps for discarded samples.
+19:28:55.333: warning: Could not update timestamps for discarded samples.
+19:29:07.012: warning: Could not update timestamps for discarded samples.
+19:29:16.131: warning: Could not update timestamps for discarded samples.
+19:29:30.940: warning: Could not update timestamps for discarded samples.
+19:29:36.820: warning: Could not update timestamps for discarded samples.
+19:29:54.416: warning: Could not update timestamps for discarded samples.
+19:29:57.319: warning: Could not update timestamps for discarded samples.
+19:30:17.912: warning: Could not update timestamps for discarded samples.
+19:30:18.746: warning: Could not update timestamps for discarded samples.
+19:30:38.644: warning: Could not update timestamps for discarded samples.
+19:30:42.745: warning: Could not update timestamps for discarded samples.
+19:30:59.264: warning: Could not update timestamps for discarded samples.
+19:31:06.704: warning: Could not update timestamps for discarded samples.
+19:31:20.005: warning: Could not update timestamps for discarded samples.
+19:31:30.382: warning: Could not update timestamps for discarded samples.
+19:31:40.603: warning: Could not update timestamps for discarded samples.
+19:31:53.803: warning: Could not update timestamps for discarded samples.
+19:32:01.362: warning: Could not update timestamps for discarded samples.
+19:32:17.867: warning: Could not update timestamps for discarded samples.
+19:32:22.434: warning: Could not update timestamps for discarded samples.
+19:32:41.614: warning: Could not update timestamps for discarded samples.
+19:32:43.546: warning: Could not update timestamps for discarded samples.
+19:33:03.899: warning: Could not update timestamps for discarded samples.
+19:33:04.842: warning: Could not update timestamps for discarded samples.
+19:33:24.280: warning: Could not update timestamps for discarded samples.
+19:33:28.024: warning: Could not update timestamps for discarded samples.
+19:33:45.422: warning: Could not update timestamps for discarded samples.
+19:33:52.641: warning: Could not update timestamps for discarded samples.
+19:34:06.993: warning: Could not update timestamps for discarded samples.
+19:34:17.001: warning: Could not update timestamps for discarded samples.
+19:34:28.100: warning: Could not update timestamps for discarded samples.
+19:34:41.202: warning: Could not update timestamps for discarded samples.
+19:34:49.133: warning: Could not update timestamps for discarded samples.
+19:35:05.200: warning: Could not update timestamps for discarded samples.
+19:35:09.918: warning: Could not update timestamps for discarded samples.
+19:35:29.318: warning: Could not update timestamps for discarded samples.
+19:35:30.849: warning: Could not update timestamps for discarded samples.
+19:35:52.433: warning: Could not update timestamps for discarded samples.
+19:35:53.733: warning: Could not update timestamps for discarded samples.
+19:36:14.069: warning: Could not update timestamps for discarded samples.
+19:36:18.491: warning: Could not update timestamps for discarded samples.
+19:36:35.659: warning: Could not update timestamps for discarded samples.
+19:36:43.266: warning: Could not update timestamps for discarded samples.
+19:36:57.363: warning: Could not update timestamps for discarded samples.
+19:37:08.348: warning: Could not update timestamps for discarded samples.
+19:37:18.508: warning: Could not update timestamps for discarded samples.
+19:37:33.661: warning: Could not update timestamps for discarded samples.
+19:37:40.403: warning: Could not update timestamps for discarded samples.
+19:37:57.983: warning: Could not update timestamps for discarded samples.
+19:38:01.815: warning: Could not update timestamps for discarded samples.
+19:38:22.602: warning: Could not update timestamps for discarded samples.
+19:38:23.364: warning: Could not update timestamps for discarded samples.
+19:38:44.682: warning: Could not update timestamps for discarded samples.
+19:38:46.686: warning: Could not update timestamps for discarded samples.
+19:39:05.323: warning: Could not update timestamps for discarded samples.
+19:39:10.414: warning: Could not update timestamps for discarded samples.
+19:39:25.809: warning: Could not update timestamps for discarded samples.
+19:39:34.123: warning: Could not update timestamps for discarded samples.
+19:39:46.896: warning: Could not update timestamps for discarded samples.
+19:39:58.100: warning: Could not update timestamps for discarded samples.
+19:40:08.168: warning: Could not update timestamps for discarded samples.
+19:40:22.490: warning: Could not update timestamps for discarded samples.
+19:40:29.488: warning: Could not update timestamps for discarded samples.
+19:40:46.590: warning: Could not update timestamps for discarded samples.
+19:40:50.291: warning: Could not update timestamps for discarded samples.
+19:41:11.042: warning: Could not update timestamps for discarded samples.
+19:41:11.663: warning: Could not update timestamps for discarded samples.
+19:41:33.002: warning: Could not update timestamps for discarded samples.
+19:41:35.464: warning: Could not update timestamps for discarded samples.
+19:41:53.962: warning: Could not update timestamps for discarded samples.
+19:41:59.375: warning: Could not update timestamps for discarded samples.
+19:42:14.810: warning: Could not update timestamps for discarded samples.
+19:42:23.563: warning: Could not update timestamps for discarded samples.
+19:42:36.274: warning: Could not update timestamps for discarded samples.
+19:42:48.181: warning: Could not update timestamps for discarded samples.
+19:42:57.101: warning: Could not update timestamps for discarded samples.
+19:43:12.696: warning: Could not update timestamps for discarded samples.
+19:43:18.350: warning: Could not update timestamps for discarded samples.
+19:43:36.789: warning: Could not update timestamps for discarded samples.
+19:43:39.643: warning: Could not update timestamps for discarded samples.
+19:44:01.100: warning: Could not update timestamps for discarded samples.
+19:44:01.497: warning: Could not update timestamps for discarded samples.
+19:44:22.867: warning: Could not update timestamps for discarded samples.
+19:44:26.203: warning: Could not update timestamps for discarded samples.
+19:44:43.974: warning: Could not update timestamps for discarded samples.
+19:44:50.749: warning: Could not update timestamps for discarded samples.
+19:45:05.072: warning: Could not update timestamps for discarded samples.
+19:45:14.971: warning: Could not update timestamps for discarded samples.
+19:45:26.518: warning: Could not update timestamps for discarded samples.
+19:45:39.553: warning: Could not update timestamps for discarded samples.
+19:45:46.715: warning: Could not update timestamps for discarded samples.
+19:46:01.767: warning: Could not update timestamps for discarded samples.
+19:46:16.816: warning: Could not update timestamps for discarded samples.
+19:46:31.797: warning: Could not update timestamps for discarded samples.
+19:46:46.985: warning: Could not update timestamps for discarded samples.
+19:47:01.860: warning: Could not update timestamps for discarded samples.
+19:47:16.934: warning: Could not update timestamps for discarded samples.
+19:47:31.839: warning: Could not update timestamps for discarded samples.
+19:47:47.174: warning: Could not update timestamps for discarded samples.
+19:48:02.351: warning: Could not update timestamps for discarded samples.
+19:48:17.602: warning: Could not update timestamps for discarded samples.
+19:48:32.714: warning: Could not update timestamps for discarded samples.
+19:48:47.707: warning: Could not update timestamps for discarded samples.
+19:49:02.810: warning: Could not update timestamps for discarded samples.
+19:49:18.049: warning: Could not update timestamps for discarded samples.
+19:49:33.158: warning: Could not update timestamps for discarded samples.
+19:49:47.991: warning: Could not update timestamps for discarded samples.
+19:50:03.228: warning: Could not update timestamps for discarded samples.
+19:50:18.535: warning: Could not update timestamps for discarded samples.
+19:50:33.813: warning: Could not update timestamps for discarded samples.
+19:50:48.803: warning: Could not update timestamps for discarded samples.
+19:51:03.301: warning: Could not update timestamps for discarded samples.
+19:51:18.152: warning: Could not update timestamps for discarded samples.
+19:51:33.228: warning: Could not update timestamps for discarded samples.
+19:51:48.354: warning: Could not update timestamps for discarded samples.
+19:52:03.188: warning: Could not update timestamps for discarded samples.
+19:52:18.579: warning: Could not update timestamps for discarded samples.
+19:52:33.748: warning: Could not update timestamps for discarded samples.
+19:52:48.624: warning: Could not update timestamps for discarded samples.
+19:53:03.679: warning: Could not update timestamps for discarded samples.
+19:53:18.747: warning: Could not update timestamps for discarded samples.
+19:53:33.793: warning: Could not update timestamps for discarded samples.
+19:53:49.026: warning: Could not update timestamps for discarded samples.
+19:54:04.293: warning: Could not update timestamps for discarded samples.
+19:54:19.502: warning: Could not update timestamps for discarded samples.
+19:54:34.465: warning: Could not update timestamps for discarded samples.
+19:54:49.092: warning: Could not update timestamps for discarded samples.
+19:55:04.288: warning: Could not update timestamps for discarded samples.
+19:55:19.736: warning: Could not update timestamps for discarded samples.
+19:55:34.590: warning: Could not update timestamps for discarded samples.
+19:55:49.006: warning: Could not update timestamps for discarded samples.
+19:56:03.278: warning: Could not update timestamps for discarded samples.
+19:56:17.150: warning: Could not update timestamps for discarded samples.
+19:56:31.048: warning: Could not update timestamps for discarded samples.
+19:56:46.299: warning: Could not update timestamps for discarded samples.
+19:57:02.525: warning: Could not update timestamps for discarded samples.
+19:57:17.913: warning: Could not update timestamps for discarded samples.
+19:57:32.631: warning: Could not update timestamps for discarded samples.
+19:57:47.066: warning: Could not update timestamps for discarded samples.
+19:58:01.850: warning: Could not update timestamps for discarded samples.
+19:58:18.156: warning: Could not update timestamps for discarded samples.
+19:58:34.899: warning: Could not update timestamps for discarded samples.
+19:58:49.984: warning: Could not update timestamps for discarded samples.
+19:59:05.443: warning: Could not update timestamps for discarded samples.
+19:59:20.270: warning: Could not update timestamps for discarded samples.
+19:59:35.302: warning: Could not update timestamps for discarded samples.
+19:59:50.371: warning: Could not update timestamps for discarded samples.
+20:00:05.877: warning: Could not update timestamps for discarded samples.
+20:00:21.360: warning: Could not update timestamps for discarded samples.
+20:00:37.196: warning: Could not update timestamps for discarded samples.
+20:00:53.493: warning: Could not update timestamps for discarded samples.
+20:01:08.864: warning: Could not update timestamps for discarded samples.
+20:01:24.589: warning: Could not update timestamps for discarded samples.
+20:01:40.590: warning: Could not update timestamps for discarded samples.
+20:01:56.981: warning: Could not update timestamps for discarded samples.
+20:02:12.476: warning: Could not update timestamps for discarded samples.
+20:02:28.175: warning: Could not update timestamps for discarded samples.
+20:02:43.985: warning: Could not update timestamps for discarded samples.
+20:03:00.263: warning: Could not update timestamps for discarded samples.
+20:03:15.784: warning: Could not update timestamps for discarded samples.
+20:03:31.002: warning: Could not update timestamps for discarded samples.
+20:03:46.107: warning: Could not update timestamps for discarded samples.
+20:04:01.243: warning: Could not update timestamps for discarded samples.
+20:04:16.389: warning: Could not update timestamps for discarded samples.
+20:04:31.621: warning: Could not update timestamps for discarded samples.
+20:04:46.835: warning: Could not update timestamps for discarded samples.
+20:05:01.820: warning: Could not update timestamps for discarded samples.
+20:05:16.595: warning: Could not update timestamps for discarded samples.
+20:05:31.339: warning: Could not update timestamps for discarded samples.
+20:05:46.217: warning: Could not update timestamps for discarded samples.
+20:06:01.289: warning: Could not update timestamps for discarded samples.
+20:06:16.062: warning: Could not update timestamps for discarded samples.
+20:06:30.570: warning: Could not update timestamps for discarded samples.
+20:06:45.670: warning: Could not update timestamps for discarded samples.
+20:07:00.972: warning: Could not update timestamps for discarded samples.
+20:07:16.025: warning: Could not update timestamps for discarded samples.
+20:07:31.165: warning: Could not update timestamps for discarded samples.
+20:07:46.472: warning: Could not update timestamps for discarded samples.
+20:08:01.722: warning: Could not update timestamps for discarded samples.
+20:08:17.631: warning: Could not update timestamps for discarded samples.
+20:08:32.271: warning: Could not update timestamps for discarded samples.
+20:08:46.888: warning: Could not update timestamps for discarded samples.
+20:09:01.635: warning: Could not update timestamps for discarded samples.
+20:09:15.836: warning: Could not update timestamps for discarded samples.
+20:09:30.327: warning: Could not update timestamps for discarded samples.
+20:09:45.023: warning: Could not update timestamps for discarded samples.
+20:09:59.594: warning: Could not update timestamps for discarded samples.
+20:10:14.009: warning: Could not update timestamps for discarded samples.
+20:10:28.667: warning: Could not update timestamps for discarded samples.
+20:10:43.236: warning: Could not update timestamps for discarded samples.
+20:10:57.871: warning: Could not update timestamps for discarded samples.
+20:11:12.485: warning: Could not update timestamps for discarded samples.
+20:11:27.096: warning: Could not update timestamps for discarded samples.
+20:11:41.801: warning: Could not update timestamps for discarded samples.
+20:11:56.391: warning: Could not update timestamps for discarded samples.
+20:12:10.864: warning: Could not update timestamps for discarded samples.
+20:12:25.965: warning: Could not update timestamps for discarded samples.
+20:12:40.761: warning: Could not update timestamps for discarded samples.
+20:12:55.458: warning: Could not update timestamps for discarded samples.
+20:13:10.393: warning: Could not update timestamps for discarded samples.
+20:13:25.124: warning: Could not update timestamps for discarded samples.
+20:13:40.018: warning: Could not update timestamps for discarded samples.
+20:13:54.978: warning: Could not update timestamps for discarded samples.
+20:14:09.667: warning: Could not update timestamps for discarded samples.
+20:14:24.564: warning: Could not update timestamps for discarded samples.
+20:14:39.337: warning: Could not update timestamps for discarded samples.
+20:14:54.107: warning: Could not update timestamps for discarded samples.
+20:15:09.464: warning: Could not update timestamps for discarded samples.
+20:15:24.562: warning: Could not update timestamps for discarded samples.
+20:15:39.315: warning: Could not update timestamps for discarded samples.
+20:15:54.013: warning: Could not update timestamps for discarded samples.
+20:16:08.444: warning: Could not update timestamps for discarded samples.
+20:16:23.341: warning: Could not update timestamps for discarded samples.
+20:16:38.065: warning: Could not update timestamps for discarded samples.
+20:16:54.867: warning: Could not update timestamps for discarded samples.
+20:17:11.977: warning: Could not update timestamps for discarded samples.
+20:17:27.768: warning: Could not update timestamps for discarded samples.
+20:17:43.250: warning: Could not update timestamps for discarded samples.
+20:17:58.826: warning: Could not update timestamps for discarded samples.
+20:18:14.138: warning: Could not update timestamps for discarded samples.
+20:18:29.550: warning: Could not update timestamps for discarded samples.
+20:18:44.645: warning: Could not update timestamps for discarded samples.
+20:18:59.654: warning: Could not update timestamps for discarded samples.
+20:19:14.836: warning: Could not update timestamps for discarded samples.
+20:19:29.918: warning: Could not update timestamps for discarded samples.
+20:19:45.159: warning: Could not update timestamps for discarded samples.
+20:20:00.108: warning: Could not update timestamps for discarded samples.
+20:20:19.903: warning: Could not update timestamps for discarded samples.
+20:20:32.370: warning: Could not update timestamps for discarded samples.
+20:20:42.825: warning: Could not update timestamps for discarded samples.
+20:20:58.523: warning: Could not update timestamps for discarded samples.
+20:21:05.690: warning: Could not update timestamps for discarded samples.
+20:21:24.595: warning: Could not update timestamps for discarded samples.
+20:21:28.163: warning: Could not update timestamps for discarded samples.
+20:21:50.621: warning: Could not update timestamps for discarded samples.
+20:21:50.947: warning: Could not update timestamps for discarded samples.
+20:22:13.569: warning: Could not update timestamps for discarded samples.
+20:22:16.576: warning: Could not update timestamps for discarded samples.
+20:22:36.445: warning: Could not update timestamps for discarded samples.
+20:22:42.419: warning: Could not update timestamps for discarded samples.
+20:22:58.707: warning: Could not update timestamps for discarded samples.
+20:23:07.687: warning: Could not update timestamps for discarded samples.
+20:23:21.112: warning: Could not update timestamps for discarded samples.
+20:23:33.490: warning: Could not update timestamps for discarded samples.
+20:23:43.588: warning: Could not update timestamps for discarded samples.
+20:23:59.274: warning: Could not update timestamps for discarded samples.
+20:24:06.118: warning: Could not update timestamps for discarded samples.
+20:24:25.000: warning: Could not update timestamps for discarded samples.
+20:24:28.772: warning: Could not update timestamps for discarded samples.
+20:24:51.544: warning: Could not update timestamps for discarded samples.
+20:24:51.633: warning: Could not update timestamps for discarded samples.
+20:25:14.597: warning: Could not update timestamps for discarded samples.
+20:25:18.155: warning: Could not update timestamps for discarded samples.
+20:25:37.199: warning: Could not update timestamps for discarded samples.
+20:25:44.197: warning: Could not update timestamps for discarded samples.
+20:26:00.063: warning: Could not update timestamps for discarded samples.
+20:26:10.472: warning: Could not update timestamps for discarded samples.
+20:26:22.897: warning: Could not update timestamps for discarded samples.
+20:26:36.911: warning: Could not update timestamps for discarded samples.
+20:26:45.609: warning: Could not update timestamps for discarded samples.
+20:27:02.908: warning: Could not update timestamps for discarded samples.
+20:27:08.106: warning: Could not update timestamps for discarded samples.
+20:27:28.210: warning: Could not update timestamps for discarded samples.
+20:27:30.444: warning: Could not update timestamps for discarded samples.
+20:27:52.782: warning: Could not update timestamps for discarded samples.
+20:27:53.486: warning: Could not update timestamps for discarded samples.
+20:28:14.954: warning: Could not update timestamps for discarded samples.
+20:28:19.157: warning: Could not update timestamps for discarded samples.
+20:28:37.575: warning: Could not update timestamps for discarded samples.
+20:28:45.313: warning: Could not update timestamps for discarded samples.
+20:29:00.730: warning: Could not update timestamps for discarded samples.
+20:29:13.270: warning: Could not update timestamps for discarded samples.
+20:29:24.219: warning: Could not update timestamps for discarded samples.
+20:29:40.981: warning: Could not update timestamps for discarded samples.
+20:29:47.474: warning: Could not update timestamps for discarded samples.
+20:30:07.028: warning: Could not update timestamps for discarded samples.
+20:30:10.281: warning: Could not update timestamps for discarded samples.
+20:30:32.591: warning: Could not update timestamps for discarded samples.
+20:30:32.706: warning: Could not update timestamps for discarded samples.
+20:30:55.076: warning: Could not update timestamps for discarded samples.
+20:30:58.039: warning: Could not update timestamps for discarded samples.
+20:31:17.305: warning: Could not update timestamps for discarded samples.
+20:31:23.415: warning: Could not update timestamps for discarded samples.
+20:31:39.483: warning: Could not update timestamps for discarded samples.
+20:31:48.957: warning: Could not update timestamps for discarded samples.
+20:32:01.769: warning: Could not update timestamps for discarded samples.
+20:32:14.215: warning: Could not update timestamps for discarded samples.
+20:32:24.176: warning: Could not update timestamps for discarded samples.
+20:32:39.559: warning: Could not update timestamps for discarded samples.
+20:32:46.471: warning: Could not update timestamps for discarded samples.
+20:33:05.138: warning: Could not update timestamps for discarded samples.
+20:33:08.733: warning: Could not update timestamps for discarded samples.
+20:33:30.361: warning: Could not update timestamps for discarded samples.
+20:33:30.894: warning: Could not update timestamps for discarded samples.
+20:33:52.901: warning: Could not update timestamps for discarded samples.
+20:33:55.360: warning: Could not update timestamps for discarded samples.
+20:34:14.973: warning: Could not update timestamps for discarded samples.
+20:34:20.386: warning: Could not update timestamps for discarded samples.
+20:34:37.068: warning: Could not update timestamps for discarded samples.
+20:34:45.675: warning: Could not update timestamps for discarded samples.
+20:34:59.147: warning: Could not update timestamps for discarded samples.
+20:35:10.507: warning: Could not update timestamps for discarded samples.
+20:35:14.625: [obs-websocket] GetTransitionData: duration is negative !
+20:35:14.954: User switched to scene '[02] 🗣 Just Chatting'
+20:35:16.975: [obs-websocket] GetTransitionData: duration is negative !
+20:35:19.141: warning: Could not update timestamps for discarded samples.
+20:35:19.386: [obs-websocket] GetTransitionData: duration is negative !
+20:35:19.459: [game-capture: '👾 Game Capture'] capture stopped
+20:35:37.113: warning: Could not update timestamps for discarded samples.
+20:35:40.599: warning: Could not update timestamps for discarded samples.
+20:35:47.527: [obs-websocket] GetTransitionData: duration is negative !
+20:35:47.572: User switched to scene '[04] 😴 Be Right Back'
+20:35:48.568: [obs-websocket] GetTransitionData: duration is negative !
+20:35:48.652: User switched to scene '[05] 👋 Stream Ending'
+20:35:50.714: [obs-websocket] GetTransitionData: duration is negative !
+20:35:52.800: [obs-websocket] GetTransitionData: duration is negative !
+20:36:03.556: warning: Could not update timestamps for discarded samples.
+20:36:18.559: warning: Could not update timestamps for discarded samples.
+20:36:33.055: [rtmp stream: 'simple_stream'] Stream shutdown timeout reached (30 second(s))
+20:36:33.055: [rtmp stream: 'simple_stream'] User stopped the stream
+20:36:33.055: Output 'simple_stream': stopping
+20:36:33.055: Output 'simple_stream': Total frames output: 315147 (317535 attempted)
+20:36:33.055: Output 'simple_stream': Total drawn frames: 145027 (351734 attempted)
+20:36:33.055: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 206707 (58.8%)
+20:36:33.055: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 2388 (0.8%)
+20:36:33.061: ==== Streaming Stop ================================================
+20:36:33.562: warning: Could not update timestamps for discarded samples.
+20:36:48.564: warning: Could not update timestamps for discarded samples.
+20:37:03.082: ==== Shutting down ==================================================
+20:37:03.568: warning: Could not update timestamps for discarded samples.
+20:37:08.156: [obs-websocket] server stopped successfully
+20:37:08.158: [obs-websocket] client [::ffff:192.168.0.41]:63912 disconnected
+20:37:08.611: WASAPI: Device 'Speakers (Realtek High Definition Audio)' Terminated
+20:37:08.630: WASAPI: Device 'Microphone (InnoGear UC016)' Terminated
+20:37:08.638: All scene data cleared
+20:37:08.638: ------------------------------------------------
+20:37:08.695: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/kccou/Videos/2021-03-04 18-58-50.mkv' stopped
+20:37:08.695: Output 'simple_file_output': stopping
+20:37:08.695: Output 'simple_file_output': Total frames output: 320398
+20:37:08.695: Output 'simple_file_output': Total drawn frames: 146900 (353866 attempted)
+20:37:08.695: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 206966 (58.5%)
+20:37:14.023: Video stopped, number of skipped frames due to encoding lag: 228469/325126 (70.3%)
+20:37:14.044: warning: 2 frames left in the queue on closing
+20:37:14.171: [obs-websocket] goodbye!
+20:37:14.200: [Scripting] Total detached callbacks: 0
+20:37:14.216: Freeing OBS context data
+20:37:14.350: == Profiler Results =============================
+20:37:14.350: run_program_init: 8025.81 ms
+20:37:14.350:  ┣OBSApp::AppInit: 107.956 ms
+20:37:14.350:  ┃ ┗OBSApp::InitLocale: 3.952 ms
+20:37:14.350:  ┗OBSApp::OBSInit: 7834.99 ms
+20:37:14.350:    ┣obs_startup: 13.542 ms
+20:37:14.350:    ┗OBSBasic::OBSInit: 4776.31 ms
+20:37:14.350:      ┣OBSBasic::InitBasicConfig: 1.534 ms
+20:37:14.350:      ┣OBSBasic::ResetAudio: 0.35 ms
+20:37:14.350:      ┣OBSBasic::ResetVideo: 1417.88 ms
+20:37:14.350:      ┣OBSBasic::InitOBSCallbacks: 0.015 ms
+20:37:14.350:      ┣OBSBasic::InitHotkeys: 0.566 ms
+20:37:14.350:      ┣obs_load_all_modules: 808.589 ms
+20:37:14.350:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 3.667 ms
+20:37:14.350:      ┃ ┣obs_init_module(decklink-captions.dll): 0.051 ms
+20:37:14.350:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 3.792 ms
+20:37:14.350:      ┃ ┣obs_init_module(enc-amf.dll): 147.835 ms
+20:37:14.350:      ┃ ┣obs_init_module(frontend-tools.dll): 20.489 ms
+20:37:14.350:      ┃ ┣obs_init_module(image-source.dll): 0.017 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-browser.dll): 2.664 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 19.183 ms
+20:37:14.350:      ┃ ┃ ┗nvenc_check: 18.866 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-filters.dll): 0.062 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-outputs.dll): 0.481 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-qsv11.dll): 13.106 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-text.dll): 0.432 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-transitions.dll): 0.015 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-vst.dll): 0.004 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-websocket.dll): 4.528 ms
+20:37:14.350:      ┃ ┣obs_init_module(obs-x264.dll): 0.004 ms
+20:37:14.350:      ┃ ┣obs_init_module(rtmp-services.dll): 5.23 ms
+20:37:14.350:      ┃ ┣obs_init_module(text-freetype2.dll): 0.328 ms
+20:37:14.350:      ┃ ┣obs_init_module(vlc-video.dll): 17.82 ms
+20:37:14.351:      ┃ ┣obs_init_module(win-capture.dll): 9.355 ms
+20:37:14.351:      ┃ ┣obs_init_module(win-decklink.dll): 5.837 ms
+20:37:14.351:      ┃ ┣obs_init_module(win-dshow.dll): 10.871 ms
+20:37:14.351:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+20:37:14.351:      ┃ ┣obs_init_module(win-wasapi.dll): 0.011 ms
+20:37:14.351:      ┃ ┗reset_win32_symbol_paths: 0.834 ms
+20:37:14.351:      ┣OBSBasic::ResetOutputs: 1.655 ms
+20:37:14.351:      ┣OBSBasic::CreateHotkeys: 0.118 ms
+20:37:14.351:      ┣OBSBasic::InitService: 5.007 ms
+20:37:14.351:      ┣OBSBasic::InitPrimitives: 0.45 ms
+20:37:14.351:      ┗OBSBasic::Load: 838.448 ms
+20:37:14.351: obs_hotkey_thread(25 ms): min=0.007 ms, median=0.034 ms, max=86.734 ms, 99th percentile=15.758 ms, 99.6894% below 25 ms
+20:37:14.351: audio_thread(Audio): min=0 ms, median=3.234 ms, max=1572.06 ms, 99th percentile=94.108 ms
+20:37:14.351:  ┗receive_audio: min=0.001 ms, median=2.458 ms, max=293.544 ms, 99th percentile=11.099 ms, 0.829548 calls per parent call
+20:37:14.351:    ┣buffer_audio: min=0 ms, median=0.003 ms, max=4.883 ms, 99th percentile=0.013 ms
+20:37:14.351:    ┗do_encode: min=0.011 ms, median=2.443 ms, max=293.504 ms, 99th percentile=11.077 ms
+20:37:14.351:      ┗encode(simple_aac): min=0.011 ms, median=0.886 ms, max=55.396 ms, 99th percentile=4.938 ms
+20:37:14.351: obs_graphics_thread(16.6667 ms): min=0.091 ms, median=11.79 ms, max=537.722 ms, 99th percentile=129.611 ms, 63.3232% below 16.667 ms
+20:37:14.351:  ┣tick_sources: min=0.002 ms, median=0.126 ms, max=537.594 ms, 99th percentile=6.092 ms
+20:37:14.351:  ┣output_frame: min=0.054 ms, median=10.324 ms, max=285.816 ms, 99th percentile=107.206 ms
+20:37:14.352:  ┃ ┣gs_context(video->graphics): min=0.054 ms, median=10.311 ms, max=285.807 ms, 99th percentile=107.108 ms
+20:37:14.352:  ┃ ┃ ┣render_video: min=0.011 ms, median=9.403 ms, max=236.5 ms, 99th percentile=45.786 ms
+20:37:14.352:  ┃ ┃ ┃ ┣render_main_texture: min=0.007 ms, median=9.331 ms, max=235.118 ms, 99th percentile=44.792 ms
+20:37:14.352:  ┃ ┃ ┃ ┣render_output_texture: min=0.019 ms, median=0.071 ms, max=28.179 ms, 99th percentile=1.954 ms, 0.392084 calls per parent call
+20:37:14.352:  ┃ ┃ ┃ ┣render_convert_texture: min=0.02 ms, median=0.06 ms, max=15.926 ms, 99th percentile=1.362 ms, 0.392084 calls per parent call
+20:37:14.352:  ┃ ┃ ┃ ┗stage_output_texture: min=0.032 ms, median=0.103 ms, max=42.669 ms, 99th percentile=1.96 ms, 0.392084 calls per parent call
+20:37:14.352:  ┃ ┃ ┣gs_flush: min=0.032 ms, median=0.117 ms, max=33.435 ms, 99th percentile=1.275 ms
+20:37:14.352:  ┃ ┃ ┗download_frame: min=0 ms, median=0.045 ms, max=270.982 ms, 99th percentile=121.158 ms, 0.392084 calls per parent call
+20:37:14.352:  ┃ ┗output_video_data: min=0 ms, median=0.005 ms, max=23.152 ms, 99th percentile=4.826 ms, 0.392073 calls per parent call
+20:37:14.352:  ┗render_displays: min=0 ms, median=0.945 ms, max=98.115 ms, 99th percentile=30.031 ms
+20:37:14.352: video_thread(video): min=0.001 ms, median=6.779 ms, max=496717 ms, 99th percentile=173.756 ms
+20:37:14.352:  ┗receive_video: min=0.246 ms, median=10.762 ms, max=328.347 ms, 99th percentile=75.823 ms, 6.02586 calls per parent call
+20:37:14.352:    ┗do_encode: min=0.245 ms, median=10.756 ms, max=328.343 ms, 99th percentile=75.815 ms
+20:37:14.353:      ┗encode(simple_h264_stream): min=0.215 ms, median=7.605 ms, max=243.534 ms, 99th percentile=73.636 ms
+20:37:14.353: =================================================
+20:37:14.353: == Profiler Time Between Calls ==================
+20:37:14.353: obs_hotkey_thread(25 ms): min=24.128 ms, median=25.99 ms, max=113.911 ms, 9.50495% within ±2% of 25 ms (0.111596% lower, 90.3835% higher)
+20:37:14.353: obs_graphics_thread(16.6667 ms): min=1.68 ms, median=16.673 ms, max=537.735 ms, 55.3402% within ±2% of 16.667 ms (6.92311% lower, 37.7367% higher)
+20:37:14.353: =================================================
+20:37:17.158: Number of memory leaks: 0
